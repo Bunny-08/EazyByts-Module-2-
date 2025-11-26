@@ -1,0 +1,5 @@
+{
+  "name": "GeminiTrader Dashboard",
+  "description": "A real-time simulated stock market dashboard featuring portfolio management, live interactive charts, and AI-powered market analysis using Google Gemini.",
+  "requestFramePermissions": []
+}
